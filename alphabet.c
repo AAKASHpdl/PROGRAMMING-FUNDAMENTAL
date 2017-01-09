@@ -1,17 +1,13 @@
-//student name::aakash poudel
+//student name ::Aakash poudel
 #include<stdio.h>
-int main()
+int main ()
 {
-char a;
+	int n;
+	char a;
+
 printf("enter the alphabet\n");
 scanf("%c",&a);
-if (a=='a'||a=='e'||a=='i'||a=='O'||a=='u'||a=='A'||a=='E'||a=='I'||a=='O'||a=='U')
-{
-	printf ("the alphabet you entered is vowel sound");
-}
-else 
-{
-	printf("the alphabet you entered is not vowel sound");
-}
+n=a;
+((n>=65 && n<=90)||(n>=97&&n<=122))?printf("you entered the alphabet"):printf("you didn't entered the alphabet");
 return 0;
-}  
+}
