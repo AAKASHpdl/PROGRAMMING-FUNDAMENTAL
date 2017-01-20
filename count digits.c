@@ -1,6 +1,6 @@
 /*
-name:anuj shrestha
-roll no :05
+name:Aakash poudel
+roll no :1
 program:wap to count digit of any number.
 lab sheet:18
 date:16 jan
