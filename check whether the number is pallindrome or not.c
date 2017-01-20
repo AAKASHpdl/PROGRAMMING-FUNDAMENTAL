@@ -1,7 +1,7 @@
 /*
-Student name: Rohit Maharjan
+Student name: Aakash poudel
 Subject: Computer Fundamentals
-Roll no:
+Roll no:1
 Program : Write a program to check whether the number is pallindrome or not
 Lab Sheet No:15
 Date: 13th jan,2017
